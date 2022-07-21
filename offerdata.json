@@ -1,0 +1,26 @@
+[
+  {
+    "id":"1",
+    "name":"s1",
+    "description":"nayatel",
+    "image_url":"http://webdemo.creatives.pk/offerpromotion/p1.jpg"
+  },
+  {
+    "id": "2",
+    "name": "s2",
+    "description": "naya tv",
+    "image_url": "http://webdemo.creatives.pk/offerpromotion/p2.jpg"
+  },
+  {
+    "id":"3",
+    "name":"s3",
+    "description":"joy box",
+    "image_url":"http://webdemo.creatives.pk/offerpromotion/p1.jpg"
+  },
+  {
+    "id": "4",
+    "name": "s4",
+    "description": "internet",
+    "image_url": "http://webdemo.creatives.pk/offerpromotion/p2.jpg"
+  }
+]
